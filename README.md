@@ -1,39 +1,55 @@
-# Hi there, I'm Hussein! 👋
+<div align="center">
+ 
+ <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" style="border-radius: 10px;" />
+ 
+ <br/>
+ <br/>
 
-### 👨‍💻 .NET Back-End Developer
+ <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A965E8&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Hussein!+%F0%9F%91%8B;CS+Student+@+O6U+%F0%9F%8E%93;Exploring+Tech+Fields...%F0%9F%94%AD;Loading+My+Career+Path...%E2%8F%B3" alt="Typing SVG" />
+ </a>
 
-I am a passionate **Back-End Developer** specializing in the **.NET ecosystem**. Currently, I am a Computer Science student at **6th of October University**, constantly exploring new technologies and building scalable solutions.
+</div>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Student at the Faculty of Computers & Information Systems, **6th of October University**.
-- 💻 **Focus:** Building robust and scalable Back-End systems using **C#** and **.NET**.
-- 🌱 **Learning:** Always improving my skills in software architecture and cloud solutions.
-- ⚡ **Fun Fact:** I love turning coffee into code! ☕
+I am a **Computer Science Student** at **6th of October University**.  
+Unlike many, I haven't labelled myself just yet. I am currently on a journey of **exploration** 🌍, diving into various fields of technology to find where my true passion lies.
+
+- 🔭 **Current Status:** Exploring different tracks (Web, Mobile, AI) to find my niche.
+- 📚 **Focus:** Strengthening my **CS Fundamentals**, **OOP**, and **Problem Solving** skills.
+- 💡 **Mindset:** Open to learning any technology that helps me build great software.
+- ⚡ **Fun Fact:** I'm like a machine learning model, currently in the "Training Phase"! 🤖
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🎒 My Toolkit (So Far)
 
-**Languages & Frameworks:**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+Since I am focusing on fundamentals, here are the languages and tools I use to solve problems:
 
-**Tools & Environment:**
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
+
+| **Languages** | **Core Concepts** | **Tools** |
+|:---:|:---:|:---:|
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Algorithms](https://img.shields.io/badge/Algorithms-IT-orange?style=for-the-badge) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![OOP](https://img.shields.io/badge/OOP-Object%20Oriented-red?style=for-the-badge) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Data Structures](https://img.shields.io/badge/Data%20Structures-CS-blue?style=for-the-badge) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+
+</div>
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect!
 
-<p align="left">
+I am open to advice, mentorship, or just a chat about technology.
+
+<p align="center">
 <a href="https://www.linkedin.com/in/hussien-mahmoud-19b704377/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hussein Mahmoud" height="30" width="40" />
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hussein Mahmoud" />
+</a>
+<a href="mailto:your-email@example.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
